@@ -4,28 +4,23 @@ Use this file to track your daily progress. Consistency is key!
 
 ## Template
 
+### Day 1 - [2026-01-03]
 ```markdown
-### Day [Number] - [Date]
+- Focus: [Tensors & Linear Algebra]
+- Tasks Completed:
+    - [ ] Theory/Reading
+    - [ ] Implementation
+    - [ ] Problem Solving
 
-**Focus:** [Topic, e.g., Linear Regression]
+- Key Learnings:
+    - Just revise Topic
 
-**Tasks Completed:**
-- [ ] Theory/Reading (Time: )
-- [ ] Implementation (Time: )
-- [ ] Problem Solving (Time: )
-
-**Key Learnings:**
-- Point 1
-- Point 2
-
-**Challenges/Blockers:**
-- Challenge 1
-
-**Next Day Goals:**
-- Goal 1
+- Challenges/Blockers:
+    - None
 ```
 
-## Log
 
-### Day 1 - [Date]
-...
+
+
+
+

@@ -356,8 +356,8 @@ ml-interview-mastery/
 ```bash
 # Fork this repository to your GitHub account
 # Clone to your local machine
-git clone https://github.com/YOUR_USERNAME/ml-interview-mastery.git
-cd ml-interview-mastery
+git clone https://github.com/codewithdark-git/6-Month-AI-ML-Interview-Mastery.git
+cd 6-Month-AI-ML-Interview-Mastery
 
 # Create your tracking branch
 git checkout -b my-journey
